@@ -1,5 +1,7 @@
 # Fetch---Data-Analyst
 
+*** ALL my code was done in the jupiter notebook. Please make sure to upload ALL orginal CSV files in the workspace before running any query. ***
+
 1. Explore the Data
    - Review the unstructured csv files and answer the following questions
        - I reviewed the unstructed csv files using python and pandas library in a jupiter notebook to be able to analyze/understand and explore the data.  
