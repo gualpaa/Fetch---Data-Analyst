@@ -1,0 +1,34 @@
+Subject: Key Data Quality Findings and Concerns from Analysis 
+
+Good Afternoon (Stakeholder's Name), 
+
+  I hope this email finds you well. I am reaching out because I would love to share some
+insights on my data analysis work. This can be helpful for strategic planning and 
+further data accuracy improvements. When running my queries I encountered data quality
+issues such as inconsistent date formats, I found several date fields in different formats.
+This inconsistency can impact time-based analysis such as year-over-year growth. Another
+issue I encountered was missing values in key fields and duplicate records. In essential 
+fields such as FINAL_SALE, there were missing or zero values, which can limit our
+ability to understand user spending patterns and brand performance. I detected duplicate 
+entries in the transaction records, this could sort our total sales calculations. 
+These issues raise questions about how the data is being processed and how it 
+is being stored. However, I believe that additional clarity on the data ingestion would 
+be helpful to address these inconsistencies. 
+
+  One interesting trend that I have encountered was among our power users.   
+Users with older accounts consistently show higher engagement. From this, it shows us
+that as users we become more familiar with Fetch's offerings, they engage more, making them 
+valuable assets. 
+
+The next step and support needed to make the data more actionable is clarification on data 
+collection where it would be helpful to understand how transaction data is processed to 
+address missing values and duplicates. Another step is standardization in data format  
+where aligning date formats would improve consistency and reduce complexity in time-based 
+reportings. Collaborating with the data team would help establish controls for data integrity 
+and hopefully be able to fill gaps in data. 
+
+Thank you for your time and attention to these findings. With a few adjustments, I believe 
+we can provide deeper insights and stronger recommendations. 
+
+Best Regards,
+Andrea Gualpa 
